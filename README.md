@@ -8,4 +8,6 @@ This then connects to SignalK using the following path ac.current.amps
 
 The code can be changed to support different clamp sensors by changing the factor value. Take care on the voltage output as the gain is set to four which is a maximum 1.024v on the ADS board.
 
+Videos of my setup can be found on our YouTube channel - https://www.youtube.com/c/BoatingwiththeBaileys
+
 Be careful when messing about with AC wiring!!
